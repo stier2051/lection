@@ -1,0 +1,33 @@
+
+g
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(€Òîûıÿÿÿÿ
+g
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(–ÆÒ…ıÿÿÿÿ
+e	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÍÓ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôùÖ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ßĞÆùÿÿÿÿ
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á·‘ö
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜¸¿«şÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ù²ğüÿÿÿÿ
+R
+java:S1854,"<Remove this useless assignment to local variable "reply_to".(‡îû­
+L
+java:S6212"/Declare this local variable with "var" instead.(Ï ¾ğ8ÍÄüœ¼/
+Q
+java:S6212"/Declare this local variable with "var" instead.(–ÆÒ…ıÿÿÿÿ8×Äüœ¼/
+Q
+java:S6212"/Declare this local variable with "var" instead.(€Òîûıÿÿÿÿ8÷Äüœ¼/
+L
+java:S6212"/Declare this local variable with "var" instead.(íŒË…8üÄüœ¼/
+L
+java:S6212 "/Declare this local variable with "var" instead.(¤à²8‚Åüœ¼/
+L
+java:S6212%"/Declare this local variable with "var" instead.(È¤ËŸ8†Åüœ¼/
+Q
+java:S6212*"/Declare this local variable with "var" instead.(€¶Îıÿÿÿÿ8‰Åüœ¼/
+Q
+java:S6212/"/Declare this local variable with "var" instead.(Øà×˜şÿÿÿÿ8Åüœ¼/
+L
+java:S62125"/Declare this local variable with "var" instead.(¿¯ØÏ8•Åüœ¼/
+B
+java:S1481"-Remove this unused "reply_to" local variable.(èÍÓ

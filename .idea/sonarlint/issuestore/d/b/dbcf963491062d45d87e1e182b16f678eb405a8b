@@ -1,0 +1,18 @@
+
+O
+java:S1854	"9Remove this useless assignment to local variable "users".(úÑ¤
+K
+java:S1854"5Remove this useless assignment to local variable "u".(¡íŸ¥
+@
+java:S1481	"*Remove this unused "users" local variable.(úÑ¤
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ØÍÑ«
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ä·¡ö
+M	java:S106"9Replace this use of System.out or System.err by a logger.(«¿†'
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ìñ¤
+S	java:S106"9Replace this use of System.out or System.err by a logger.(òöÙãüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ãÀ­Ò
+<
+java:S1481"&Remove this unused "u" local variable.(¡íŸ¥
+=
+java:S2189
+""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ

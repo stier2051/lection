@@ -1,0 +1,16 @@
+
+W
+java:S2094"BRemove this empty class, write its code or make it an "interface".(»‰à|
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³ÊäÃ
+n
+java:S16025"SRemove useless curly braces around statement and then remove useless return keyword(ÑŞÒùÿÿÿÿ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ
+i
+java:S16027"SRemove useless curly braces around statement and then remove useless return keyword(úÈÁÂ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ
+i
+java:S16029"SRemove useless curly braces around statement and then remove useless return keyword(ûĞï
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ
+t
+java:S11926"YDefine a constant instead of duplicating this literal "------------------------" 3 times.(éç¬ùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º÷Úíşÿÿÿÿ
